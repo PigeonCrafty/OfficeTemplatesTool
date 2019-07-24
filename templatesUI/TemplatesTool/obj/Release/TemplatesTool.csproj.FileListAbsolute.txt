@@ -1,0 +1,16 @@
+C:\Users\pigeonz\Source\Repos\templatestool\templatesUI\templatesUI\TemplatesHelper\bin\Release\TemplatesTool.dll.config
+C:\Users\pigeonz\Source\Repos\templatestool\templatesUI\templatesUI\TemplatesHelper\bin\Release\TemplatesTool.dll
+C:\Users\pigeonz\Source\Repos\templatestool\templatesUI\templatesUI\TemplatesHelper\bin\Release\TemplatesTool.pdb
+C:\Users\pigeonz\Source\Repos\templatestool\templatesUI\templatesUI\TemplatesHelper\obj\Release\TemplatesTool.csprojAssemblyReference.cache
+C:\Users\pigeonz\Source\Repos\templatestool\templatesUI\templatesUI\TemplatesHelper\obj\Release\TemplatesTool.csproj.ResolveComReference.cache
+C:\Users\pigeonz\Source\Repos\templatestool\templatesUI\templatesUI\TemplatesHelper\obj\Release\TemplatesTool.csproj.CoreCompileInputs.cache
+C:\Users\pigeonz\Source\Repos\templatestool\templatesUI\templatesUI\TemplatesHelper\obj\Release\TemplatesTool.dll
+C:\Users\pigeonz\Source\Repos\templatestool\templatesUI\templatesUI\TemplatesHelper\obj\Release\TemplatesTool.pdb
+C:\Users\pigeonz\Source\Repos\templatestool\templatesUI\TemplatesTool\bin\Release\TemplatesTool.dll.config
+C:\Users\pigeonz\Source\Repos\templatestool\templatesUI\TemplatesTool\bin\Release\TemplatesTool.dll
+C:\Users\pigeonz\Source\Repos\templatestool\templatesUI\TemplatesTool\bin\Release\TemplatesTool.pdb
+C:\Users\pigeonz\Source\Repos\templatestool\templatesUI\TemplatesTool\obj\Release\TemplatesTool.csprojAssemblyReference.cache
+C:\Users\pigeonz\Source\Repos\templatestool\templatesUI\TemplatesTool\obj\Release\TemplatesTool.csproj.ResolveComReference.cache
+C:\Users\pigeonz\Source\Repos\templatestool\templatesUI\TemplatesTool\obj\Release\TemplatesTool.csproj.CoreCompileInputs.cache
+C:\Users\pigeonz\Source\Repos\templatestool\templatesUI\TemplatesTool\obj\Release\TemplatesTool.dll
+C:\Users\pigeonz\Source\Repos\templatestool\templatesUI\TemplatesTool\obj\Release\TemplatesTool.pdb

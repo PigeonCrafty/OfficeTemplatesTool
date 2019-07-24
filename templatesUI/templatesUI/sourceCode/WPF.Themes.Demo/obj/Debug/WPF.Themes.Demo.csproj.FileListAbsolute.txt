@@ -1,0 +1,17 @@
+C:\Users\pigeonz\Source\Repos\templatestool\templatesUI\templatesUI\sourceCode\WPF.Themes.Demo\bin\Debug\WPF.Themes.Demo.exe.config
+C:\Users\pigeonz\Source\Repos\templatestool\templatesUI\templatesUI\sourceCode\WPF.Themes.Demo\bin\Debug\WPF.Themes.Demo.exe
+C:\Users\pigeonz\Source\Repos\templatestool\templatesUI\templatesUI\sourceCode\WPF.Themes.Demo\bin\Debug\WPF.Themes.Demo.pdb
+C:\Users\pigeonz\Source\Repos\templatestool\templatesUI\templatesUI\sourceCode\WPF.Themes.Demo\bin\Debug\WPF.Themes.dll
+C:\Users\pigeonz\Source\Repos\templatestool\templatesUI\templatesUI\sourceCode\WPF.Themes.Demo\bin\Debug\WPF.Themes.pdb
+C:\Users\pigeonz\Source\Repos\templatestool\templatesUI\templatesUI\sourceCode\WPF.Themes.Demo\obj\Debug\WPF.Themes.Demo.csprojAssemblyReference.cache
+C:\Users\pigeonz\Source\Repos\templatestool\templatesUI\templatesUI\sourceCode\WPF.Themes.Demo\obj\Debug\Window1.baml
+C:\Users\pigeonz\Source\Repos\templatestool\templatesUI\templatesUI\sourceCode\WPF.Themes.Demo\obj\Debug\Window1.g.cs
+C:\Users\pigeonz\Source\Repos\templatestool\templatesUI\templatesUI\sourceCode\WPF.Themes.Demo\obj\Debug\App.g.cs
+C:\Users\pigeonz\Source\Repos\templatestool\templatesUI\templatesUI\sourceCode\WPF.Themes.Demo\obj\Debug\WPF.Themes.Demo_MarkupCompile.cache
+C:\Users\pigeonz\Source\Repos\templatestool\templatesUI\templatesUI\sourceCode\WPF.Themes.Demo\obj\Debug\WPF.Themes.Demo.g.resources
+C:\Users\pigeonz\Source\Repos\templatestool\templatesUI\templatesUI\sourceCode\WPF.Themes.Demo\obj\Debug\WPF.Themes.Demo.Properties.Resources.resources
+C:\Users\pigeonz\Source\Repos\templatestool\templatesUI\templatesUI\sourceCode\WPF.Themes.Demo\obj\Debug\WPF.Themes.Demo.csproj.GenerateResource.cache
+C:\Users\pigeonz\Source\Repos\templatestool\templatesUI\templatesUI\sourceCode\WPF.Themes.Demo\obj\Debug\WPF.Themes.Demo.csproj.CoreCompileInputs.cache
+C:\Users\pigeonz\Source\Repos\templatestool\templatesUI\templatesUI\sourceCode\WPF.Themes.Demo\obj\Debug\WPF.Themes.Demo.csproj.CopyComplete
+C:\Users\pigeonz\Source\Repos\templatestool\templatesUI\templatesUI\sourceCode\WPF.Themes.Demo\obj\Debug\WPF.Themes.Demo.exe
+C:\Users\pigeonz\Source\Repos\templatestool\templatesUI\templatesUI\sourceCode\WPF.Themes.Demo\obj\Debug\WPF.Themes.Demo.pdb

@@ -1,0 +1,11 @@
+C:\Users\pigeonz\Source\Repos\templatestool\templatesUI\ConsoleTester\bin\Release\ConsoleTester.exe.config
+C:\Users\pigeonz\Source\Repos\templatestool\templatesUI\ConsoleTester\bin\Release\ConsoleTester.exe
+C:\Users\pigeonz\Source\Repos\templatestool\templatesUI\ConsoleTester\bin\Release\ConsoleTester.pdb
+C:\Users\pigeonz\Source\Repos\templatestool\templatesUI\ConsoleTester\bin\Release\TemplatesTool.dll
+C:\Users\pigeonz\Source\Repos\templatestool\templatesUI\ConsoleTester\bin\Release\TemplatesTool.pdb
+C:\Users\pigeonz\Source\Repos\templatestool\templatesUI\ConsoleTester\bin\Release\TemplatesTool.dll.config
+C:\Users\pigeonz\Source\Repos\templatestool\templatesUI\ConsoleTester\obj\Release\ConsoleTester.csprojAssemblyReference.cache
+C:\Users\pigeonz\Source\Repos\templatestool\templatesUI\ConsoleTester\obj\Release\ConsoleTester.csproj.CoreCompileInputs.cache
+C:\Users\pigeonz\Source\Repos\templatestool\templatesUI\ConsoleTester\obj\Release\ConsoleTester.csproj.CopyComplete
+C:\Users\pigeonz\Source\Repos\templatestool\templatesUI\ConsoleTester\obj\Release\ConsoleTester.exe
+C:\Users\pigeonz\Source\Repos\templatestool\templatesUI\ConsoleTester\obj\Release\ConsoleTester.pdb
