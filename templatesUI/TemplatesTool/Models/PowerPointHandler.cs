@@ -1,7 +1,7 @@
-﻿using System;
+﻿using Microsoft.Office.Core;
+using System;
 using System.IO;
 using System.Reflection;
-using Microsoft.Office.Core;
 using TemplatesTool.Languages;
 using POWERPOINT = Microsoft.Office.Interop.PowerPoint;
 
@@ -13,7 +13,7 @@ namespace TemplatesTool.Models
 
         public PowerPointHandler(string filePath)
         {
-            app = new POWERPOINT.Application {DisplayAlerts = POWERPOINT.PpAlertLevel.ppAlertsNone};
+            app = new POWERPOINT.Application { DisplayAlerts = POWERPOINT.PpAlertLevel.ppAlertsNone };
             LangName = Common.GetLangName(filePath);
             LocalLang = Common.GetLangObj(LangName.ToLower());
         }
